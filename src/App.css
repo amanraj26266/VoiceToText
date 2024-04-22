@@ -1,0 +1,36 @@
+.App{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 263.5px;
+  padding: 100px;
+  background-color: rgb(112, 112, 138);
+  border-radius: 10px;
+}
+.head{
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+}
+.trans{
+  color: black;
+  border: 2px dashed rgb(80, 21, 21);
+  padding: 20px;
+  align-self: center;
+  min-height: 100px;
+  align-items: center;
+  border-radius: 8px;
+}
+h2{
+  color: rgb(17, 90, 21);
+}
+button{
+  background-color: rgb(58, 116, 61);
+  border-radius: 5px;
+  margin-right: 20px;
+  color: white;
+}
+button:hover{
+  background-color: rgb(17, 90, 21);
+  color: white;
+}
